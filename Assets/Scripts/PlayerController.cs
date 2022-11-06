@@ -12,6 +12,7 @@ public class PlayerController : MonoBehaviour
     public GameObject powerUpRing;
 
     bool hasPowerUp = false;
+
     // Start is called before the first frame update
     void Start()
     {
